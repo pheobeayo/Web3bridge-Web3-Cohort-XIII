@@ -1,0 +1,13 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+
+[profile.fork]
+fork_url = "https://eth-mainnet.g.alchemy.com/v2/ArJew87qOCE1T_tHM90U9"
+fork_block_number = 23127641
+
+[rpc_endpoints]
+mainnet = "https://eth-mainnet.alchemyapi.io/v2/${API_KEY_ALCHEMY}"
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
