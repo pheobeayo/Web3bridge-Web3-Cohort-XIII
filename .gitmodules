@@ -7,3 +7,6 @@
 [submodule "online-program/submissions/week-6/day-4/Emma/Ifeoluwa-Sanni/lib/forge-std"]
 	path = online-program/submissions/week-6/day-4/Emma/Ifeoluwa-Sanni/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "online-program/submissions/week-6/day-4/Ifeoluwa-Sanni/lib/forge-std"]
+	path = online-program/submissions/week-6/day-4/Ifeoluwa-Sanni/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
